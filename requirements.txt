@@ -1,0 +1,14 @@
+flask
+flask-cors
+fastmrz
+imutils
+opencv-python
+pytesseract
+numpy
+Pillow
+python-dotenv
+flask_sqlalchemy
+# git+https://github.com/ageitgey/face_recognition_models
+face_recognition
+matplotlib
+dlib

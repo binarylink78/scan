@@ -1,0 +1,1 @@
+{'mrz_type': 'TD3', 'document_type': 'P', 'country_code': 'MYS', 'surname': 'MUHAMMAD HAZUAN BIN MOHD NAZRI CHEW', 'given_name': '', 'document_number': 'A62216421', 'nationality': 'MYS', 'date_of_birth': '1991-07-12', 'sex': 'M', 'date_of_expiry': '2029-07-22', 'optional_data': '910712045147', 'status': 'SUCCESS'}
